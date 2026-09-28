@@ -2,7 +2,7 @@
 
 **Última atualização:** 28 de setembro de 2026
 
-Esta Política de Privacidade descreve como o aplicativo **[Nome do seu Aplicativo/Automação]** coleta, usa e protege as informações ao utilizar nossas integrações com plataformas de terceiros, como Meta (Instagram/Facebook) e TikTok.
+Esta Política de Privacidade descreve como o aplicativo **Integração Posts - n8n** coleta, usa e protege as informações ao utilizar nossas integrações com plataformas de terceiros, como Meta (Instagram/Facebook) e TikTok.
 
 ## 1. Coleta de Dados
 
@@ -33,12 +33,12 @@ Como nosso aplicativo não mantém um banco de dados de usuários, a exclusão/r
 **Para revogar o acesso no Instagram/Facebook:**
 1. Acesse seu perfil do Facebook/Instagram e vá em **Configurações e privacidade**.
 2. Clique em **Aplicativos e sites** (ou "Integrações comerciais").
-3. Encontre o aplicativo **[Nome do seu Aplicativo]** na lista de aplicativos ativos.
+3. Encontre o aplicativo **Integração Posts - n8n** na lista de aplicativos ativos.
 4. Clique em **Remover** e confirme.
 Ao fazer isso, os tokens de acesso associados à nossa automação serão imediatamente invalidados e qualquer conexão de dados será permanentemente cortada.
 
 **Para solicitar suporte sobre exclusão de dados:**
-Caso precise de assistência adicional para garantir que qualquer configuração local de automação seja removida, entre em contato através do e-mail: **[Seu E-mail de Contato]**.
+Caso precise de assistência adicional para garantir que qualquer configuração local de automação seja removida, entre em contato através do e-mail: **igrejafogoassis@gmail.com**.
 
 ## 5. Termos de Uso
 
@@ -47,5 +47,5 @@ Ao utilizar nossa automação, o administrador do sistema concorda em publicar a
 ## 6. Contato
 
 Para dúvidas sobre esta Política de Privacidade ou sobre o funcionamento técnico da integração, entre em contato:
-* **Desenvolvedor:** [Seu Nome ou Nome da Empresa]
-* **E-mail:** [Seu E-mail de Contato]
+* **Desenvolvedor:** Igreja Fogo Assis
+* **E-mail:** igrejafogoassis@gmail.com
